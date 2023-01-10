@@ -295,6 +295,30 @@ include:category-enterprise-query-platform-cn
 upe.net # 优启通官网
 suzuki-china.com # 铃木中国官网
 
+# 应城门户网站
+chugou360.com
+ycrx360.com
+
+# 即刻雾联（北京）
+# Refer: https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
+jikeiot.cloud
+
+zyh365.com # 志愿汇
+
+# 青年大学习
+## 北京中青在线网络信息技术有限公司 (京ICP备16062000号)
+cyol.com
+## 北京天润基业科技发展股份有限公司 (京ICP备19052875号-1)
+webterren.com
+
+# 青春北京
+## 共青团北京市委员会信息中心 (京ICP备14030447号-3)
+include:bjyouth
+## 北京尚古创新科技有限公司 (京ICP备14013186号)
+include:sumkoo
+## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
+zzdtec.com
+
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 
@@ -1162,7 +1186,6 @@ tuwan.com
 tuwanjun.com
 txrjy.com # 沪ICP备12002292号
 u.tools
-ubuntukylin.com # 津ICP备15002470号-2 优麒麟
 ucbug.com
 uggame.com
 uoko.com
